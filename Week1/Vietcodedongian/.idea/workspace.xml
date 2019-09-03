@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d0251f1b-a659-4f81-bed4-b32ef19695e6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QF7YYmGB8dAM24sw819NhIgX2C" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CacSoNguyenToTu1DenN">
+    <configuration name="CacSoNguyenToTu1DenN" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="CacSoNguyenToTu1DenN" />
+      <module name="Vietcodedongian" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KiemTraSoChanLe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KiemTraSoChanLe" />
+      <module name="Vietcodedongian" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TinhBinhPhuong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TinhBinhPhuong" />
+      <module name="Vietcodedongian" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TongCacBoiSoCua7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TongCacBoiSoCua7" />
+      <module name="Vietcodedongian" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TongGiaiThua" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TongGiaiThua" />
+      <module name="Vietcodedongian" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CacSoNguyenToTu1DenN" />
+      <item itemvalue="Application.KiemTraSoChanLe" />
+      <item itemvalue="Application.TinhBinhPhuong" />
+      <item itemvalue="Application.TongCacBoiSoCua7" />
+      <item itemvalue="Application.TongGiaiThua" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CacSoNguyenToTu1DenN" />
+        <item itemvalue="Application.TinhBinhPhuong" />
+        <item itemvalue="Application.TongGiaiThua" />
+        <item itemvalue="Application.TongCacBoiSoCua7" />
+        <item itemvalue="Application.KiemTraSoChanLe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0251f1b-a659-4f81-bed4-b32ef19695e6" name="Default Changelist" comment="" />
+      <created>1567354538503</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567354538503</updated>
+      <workItem from="1567354542023" duration="5292000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
