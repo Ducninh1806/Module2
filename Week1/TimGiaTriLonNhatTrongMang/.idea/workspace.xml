@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85be2830-824b-4b70-a9b7-de084db1f347" name="Default Changelist" comment="" />
+    <list default="true" id="6aa6461b-00d4-45f5-b336-a0f880818fa5" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,11 +15,14 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1QJMOXCDTAmiA2KigUZDqgyJhs0" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1QJwGY0w7UNTwIUZZySvPZnbjGW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PhuongTrinhBac2/src/PhuongTrinhBac2.java" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -33,24 +36,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PhuongTrinhBac2">
-    <configuration name="PhuongTrinhBac2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PhuongTrinhBac2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="er" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="er" />
-      <module name="sakjdfha" />
+  <component name="RunManager">
+    <configuration name="TimGiaTriLonNhatTrongMang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TimGiaTriLonNhatTrongMang" />
+      <module name="TimGiaTriLonNhatTrongMang" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PhuongTrinhBac2" />
-        <item itemvalue="Application.er" />
+        <item itemvalue="Application.TimGiaTriLonNhatTrongMang" />
       </list>
     </recent_temporary>
   </component>
@@ -59,17 +55,27 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="85be2830-824b-4b70-a9b7-de084db1f347" name="Default Changelist" comment="" />
-      <created>1567484213833</created>
+      <changelist id="6aa6461b-00d4-45f5-b336-a0f880818fa5" name="Default Changelist" comment="" />
+      <created>1567501911127</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1567484213833</updated>
-      <workItem from="1567484216413" duration="234000" />
-      <workItem from="1567484572797" duration="671000" />
+      <updated>1567501911127</updated>
+      <workItem from="1567501913840" duration="2716000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
