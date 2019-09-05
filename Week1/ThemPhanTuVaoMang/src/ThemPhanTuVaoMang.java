@@ -9,15 +9,21 @@ public class ThemPhanTuVaoMang {
         int num = input.nextInt();
         System.out.println("Enter a index in array: ");
         int index = input.nextInt();
+        int[] newarray= new int[11];
 
-//        for (int i=index;i<array.length;i++){
-//            array[i+1]=array[i];
-//            array[index]=num;
-//        }
-
-
-
+        for (int i=0; i<newarray.length;i++){
+            if (i< index){
+                newarray[i]=array[i];
+            }
+            if (i==index){
+                newarray[index]=num;
+            }
+            if (i>index){
+                newarray[i]=array[i-1];
+            }
+        }
+        for (int i=0; i<newarray.length;i++){
+            System.out.print(newarray[i]+"\t");
+        }
     }
-
-
 }
