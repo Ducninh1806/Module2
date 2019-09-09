@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6aa6461b-00d4-45f5-b336-a0f880818fa5" name="Default Changelist" comment="">
+    <list default="true" id="06cf61f6-f160-4325-9238-8f2231005869" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../JavaInterFace/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaInterFace/src/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaInterFace/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaInterFace/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaInterFace/src/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaInterFace/src/JavaInterFace.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LopPoint2DVaLopPoint3D/src/Point3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LopPoint2DVaLopPoint3D/src/Point3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TimGiaTriLonNhatTrongMang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TimGiaTriLonNhatTrongMang/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +27,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1QJwGY0w7UNTwIUZZySvPZnbjGW" />
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Administrator\IdeaProjects\Week1\LopAnimalVaInterfaceElible\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QRtJOLgh2pw2HPP3OhFSTLZtzQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -39,31 +53,28 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="TimGiaTriLonNhatTrongMang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TimGiaTriLonNhatTrongMang" />
-      <module name="TimGiaTriLonNhatTrongMang" />
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.TimGiaTriLonNhatTrongMang" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6aa6461b-00d4-45f5-b336-a0f880818fa5" name="Default Changelist" comment="" />
-      <created>1567501911127</created>
+      <changelist id="06cf61f6-f160-4325-9238-8f2231005869" name="Default Changelist" comment="" />
+      <created>1567745163650</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1567501911127</updated>
-      <workItem from="1567501913840" duration="2716000" />
-      <workItem from="1567677563719" duration="284000" />
+      <updated>1567745163650</updated>
+      <workItem from="1567745166657" duration="467000" />
     </task>
     <servers />
   </component>
@@ -75,9 +86,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>

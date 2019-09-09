@@ -5,6 +5,7 @@ public class Point3D extends Point2D{
 
     public Point3D(float x, float y, float z){
         this.z=z;
+
         super.setX(x);
         super.setY(y);
     }
